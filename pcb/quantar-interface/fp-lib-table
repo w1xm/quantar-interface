@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name quantar-interface)(type KiCad)(uri ${KIPRJMOD}/quantar-interface.pretty)(options "")(descr ""))
+)
