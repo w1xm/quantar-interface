@@ -3606,7 +3606,7 @@ Spare Output
 Wire Notes Line
 	13350 14600 17000 14600
 Text Notes 17350 15450 0    50   ~ 0
-Quantar open-collector\noutput (pin 39, Aux Out 4)
+Quantar open-collector\noutput (pin 37, Aux Out 2)
 Entry Wire Line
 	20850 1400 20750 1500
 Entry Wire Line
